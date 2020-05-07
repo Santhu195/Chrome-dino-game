@@ -1,5 +1,5 @@
 # Chrome-dino-game
-Automating the dino game from chrome browser
+Automating the dino game from chrome browser using image detection or collision detection
 ## Features
 1. Uses selenium to open browser and game
 2. Accuracy of collide detection can be imporved with x y coordinates from script main.py
@@ -12,3 +12,4 @@ Automating the dino game from chrome browser
 2. Pyautogui
 3. Selenium
 
+Program can be improved
