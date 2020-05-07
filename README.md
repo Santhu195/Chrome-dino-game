@@ -6,3 +6,9 @@ Automating the dino game from chrome browser
 3. Required Chrome browser 80.0.xx
 4. Run boy.py and enjoy auto play bot
 5. Close game by ctrl+c /ctrl+z
+
+# Libraries needed
+1. Pillow
+2. Pyautogui
+3. Selenium
+
